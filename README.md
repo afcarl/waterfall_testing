@@ -5,8 +5,11 @@ Original starter code taken from Chris Moffitt's page at http://pbpython.com/wat
 ----------------- original at time of project start ----------------
 
 import numpy as np
+
 import pandas as pd
+
 import matplotlib.pyplot as plt
+
 from matplotlib.ticker import FuncFormatter
 
 #Use python 2.7+ syntax to format currency
